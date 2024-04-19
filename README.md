@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently on a journey back into tech from the wilderness. So I am currently on a journey learning web dev, cybersecurity, data anaylysis etc.
+I'm looking for connections with those who can be mentors as well as those at the beginning of their journey.
+
+
 <!--
 **brutag/brutag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
